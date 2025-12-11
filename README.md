@@ -3,7 +3,7 @@
 HTML、CSS、JavaScript を使用して作成しました。
 
 🚀 ライブデモ
-👉 こちらからアプリを試せます
+👉 こちらからアプリを試せますhttps://khanalganesh.github.io/mobileapps/
 
 ✨ 主な機能
 ランダムおみくじ生成
