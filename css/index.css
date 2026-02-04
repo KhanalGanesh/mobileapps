@@ -23,7 +23,7 @@ body{
     Meiryo,
     sans-serif;
     text-align: center;
-    background-image: url(../img/xxxxxxxx.JPG);
+    background-image: url(../img/top-page.webp);
     background-size: cover;
     overflow: hidden;
 }
@@ -177,11 +177,4 @@ footer> p {
 
     
 }
-.back{
-    padding-left: 0.5em;
-    border-radius: 3em;
-    color: whitesmoke;
-    font-size: 1.5em;
-    background: rgb(26, 212, 212);
-    cursor: pointer;
-}
+
